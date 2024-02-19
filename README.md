@@ -14,3 +14,14 @@ https://github.com/cloudsteak/mentor-klub-cloud/issues
 ## Képzési anyagok
 
 1. [AWS Cloud tudástár](https://github.com/cloudsteak/trn-aws-common)
+
+## Kódok és megoldások
+
+1. WebApp + RDS (MariaDB)
+
+Link: https://github.com/cloudsteak/trn-aws-webapp-sql
+
+2. WebApp + NoSQL (DynamoDB)
+
+Link: https://github.com/cloudsteak/trn-aws-webapp-nosql
+
